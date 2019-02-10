@@ -1,6 +1,6 @@
 ## Project Installation 
 
-1: Clone the project.
+1: Clone the project.<br>
 2: Copy all the code from .env.example and make new file with .env name and Paste all the code and update with database in .env and PhpMyAdmin as well.
 3: write the fo;lowing command in Command prompt of the  project folder
    i: composer install
