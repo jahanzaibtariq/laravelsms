@@ -1,3 +1,17 @@
+## Project Installation 
+
+1: Clone the project.
+2: Copy all the code from .env.example and make new file with .env name and Paste all the code and update with database in .env and PhpMyAdmin as well.
+3: write the fo;lowing command in Command prompt of the  project folder
+   i: composer install
+   ii: npm install
+   iii: php artisan migrate
+   iv: php artisan db:seed --class=UsersTableSeeder
+   v: php artisan serve
+Easliy run and doing work on it.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -49,6 +63,9 @@ We would like to extend our thanks to the following sponsors for helping fund on
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
 
 ## Security Vulnerabilities
 
