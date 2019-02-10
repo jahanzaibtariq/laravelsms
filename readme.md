@@ -1,14 +1,15 @@
 ## Project Installation 
 
 1: Clone the project.<br>
-2: Copy all the code from .env.example and make new file with .env name and Paste all the code and update with database in .env and PhpMyAdmin as well.
-3: write the fo;lowing command in Command prompt of the  project folder
-   i: composer install
-   ii: npm install
-   iii: php artisan migrate
-   iv: php artisan db:seed --class=UsersTableSeeder
-   v: php artisan serve
-Easliy run and doing work on it.
+2: Copy all the code from .env.example and make new file with .env name and Paste all the code and update with database in .env and PhpMyAdmin as well.<br>
+3: write the fo;lowing command in Command prompt of the  project folder <br>
+   i: composer install <br>
+   ii: npm install <br>
+   iii: php artisan migrate <br>
+   iv: php artisan db:seed --class=UsersTableSeeder <br>
+   v: php artisan serve <br>
+Easliy run and doing work on it. <br>
+
 
 
 
